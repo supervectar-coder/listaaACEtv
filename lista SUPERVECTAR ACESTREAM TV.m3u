@@ -39,11 +39,11 @@ acestream://acc20f3739d9eccd0539f0c62519f35b8750a245
 acestream://fc469b1e22f9a75bf7079995876955b9b293ef7e
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCESP.png" tvg-id="M+ Cine Español" group-title="MOVISTAR", MOVISTAR CINE ESPAÑOL FHD --> NEW ERA III
 acestream://f4e37b63fb042d90528585741a39851af543deca
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCESP.png" tvg-id="M+ Cine Español" group-title="MOVISTAR", M+ CINE ESPAnOL HD Spain --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCESP.png" tvg-id="M+ Cine Español" group-title="MOVISTAR", M+ CINE ESPAÑOL HD Spain --> NEW LOOP
 acestream://812151e00822387172fb695f526415c45ad8cd1b
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TOPCOM.png" tvg-id="M+ COMEDIA ESPAnOLA" group-title="MOVISTAR", M+ COMEDIA ESPAnOLA HD
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TOPCOM.png" tvg-id="M+ COMEDIA ESPAÑOLA" group-title="MOVISTAR", M+ COMEDIA ESPAÑOLA HD
 acestream://c8a8710788e86761c4c702ee5cb7164e2a0e2d7a
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TOPCOM.png" tvg-id="M+ COMEDIA ESPAnOLA" group-title="MOVISTAR", M+ COMEDIA ESPAnOLA HD --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TOPCOM.png" tvg-id="M+ COMEDIA ESPAÑOLA" group-title="MOVISTAR", M+ COMEDIA ESPAÑOLA HD --> NEW LOOP
 acestream://3e38995391f980d060508c93ab1783cc4d7c42b6
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MINDI.png" tvg-id="M+ Indie HD" group-title="MOVISTAR", M+ Indie HD Spain --> NEW LOOP
 acestream://060f90e77ec1f3478ef81b58569c0158b7851af5
@@ -63,3 +63,4 @@ acestream://296007b6a8c2ea9ceb7d6528f5e5e109c3142fa0
 acestream://fd7e013b1827db32af3665d1ef5da7fc0cc6ae5d
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/PCM.png" tvg-id="Comedy Central HD" group-title="MOVISTAR", Comedy Central HD --> NEW ERA III
 acestream://e1c2c2a74a3688066526e5ff212e13d2101f44ad
+
