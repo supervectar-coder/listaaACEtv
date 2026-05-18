@@ -55,7 +55,7 @@ acestream://b331dcd389eaf6d4af356245cc0a02a3c478d3ed
 acestream://17ad42b190bd0327984ea7efee661564a61bfc5b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="MOVISTAR", M+ Wéstern HD Spain --> NEW LOOP
 acestream://07473038aa16ed164f5989234fafd303eecf67dc
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SCI-FI.png" tvg-id="SyFy" group-title="MOVISTAR", SYFY
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SCI-FI.png" tvg-id="SyFy HD" group-title="MOVISTAR", SYFY 
 acestream://0abff11099cfe1bb45fac7fd29e996a68a9f1463
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CL13.png" tvg-id="Calle 13 HD" group-title="MOVISTAR", CALLE 13 HD --> NEW ERA III
 acestream://296007b6a8c2ea9ceb7d6528f5e5e109c3142fa0
