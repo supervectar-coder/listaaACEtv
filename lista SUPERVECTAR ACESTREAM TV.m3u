@@ -1,65 +1,65 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD --> NEW ERA
 acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD --> NEW ERA
 acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD --> NEW ERA III
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD --> NEW ERA III
 acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD --> NEW ERA VI
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD --> NEW ERA VI
 acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD --> ELCANO
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD --> ELCANO
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD
 acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Originales%20HD.png" tvg-id="M+ Originales HD" group-title="MOVISTAR", MOVISTAR ORIGINALES FHD --> NEW ERA III
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MORIG.png" tvg-id="M+ Originales HD" group-title="MOVISTAR", MOVISTAR ORIGINALES FHD --> NEW ERA III
 acestream://60a59a6259b6d4cb5b826e1847cd0af0a7ecc1ce
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="MOVISTAR", M+ Originales HD Spain --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MORIG.png" tvg-id="" group-title="MOVISTAR", M+ Originales HD Spain --> NEW LOOP
 acestream://fcfe83e9b75169730fedf7375127c0190443972e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Originales%20HD.png" tvg-id="M+ Originales HD" group-title="MOVISTAR", MOVISTAR ORIGINALES FHD 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MORIG.png" tvg-id="M+ Originales HD" group-title="MOVISTAR", MOVISTAR ORIGINALES FHD 
 acestream://0364449064d322a1bc0f97d568452053810ef8bc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Originales.png" tvg-id="M+ Estrenos HD" group-title="MOVISTAR", MOVISTAR ESTRENOS FHD --> NEW ERA III
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV1.png" tvg-id="M+ Estrenos HD" group-title="MOVISTAR", MOVISTAR ESTRENOS FHD --> NEW ERA III
 acestream://007a97a0aff68eb9a76f7fb9d9643b1532ab0803
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Originales.png" tvg-id="M+ Estrenos HD" group-title="MOVISTAR", MOVISTAR ESTRENOS FHD --> NEW ERA III
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV1.png" tvg-id="M+ Estrenos HD" group-title="MOVISTAR", MOVISTAR ESTRENOS FHD --> NEW ERA III
 acestream://fe6dead974cebbb7626458a763ff0e2150dffbe0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Originales.png" tvg-id="M+ Estrenos HD" group-title="MOVISTAR", MOVISTAR ESTRENOS FHD --> NEW ERA III
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV1.png" tvg-id="M+ Estrenos HD" group-title="MOVISTAR", MOVISTAR ESTRENOS FHD --> NEW ERA III
 acestream://21a520deae139fb12548554c3b9b8fc1ba8993f1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Hits.png" tvg-id="M+ Hits HD" group-title="MOVISTAR", MOVISTAR HITS FHD --> NEW ERA III
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MHITS.png" tvg-id="M+ Hits HD" group-title="MOVISTAR", MOVISTAR HITS FHD --> NEW ERA III
 acestream://0bb012ac0e815b413831687a4a9b61777b3338f4
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="MOVISTAR", M+ Hits HD Spain --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MHITS.png" tvg-id="" group-title="MOVISTAR", M+ Hits HD Spain --> NEW LOOP
 acestream://e10ef7d45baba0ec10a1f237042dc633df947826
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M+%20Acci%C3%B3n%20HD.png?raw=true" tvg-id="M+ Acción HD" group-title="MOVISTAR", MOVISTAR ACCION --> NEW ERA III
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPACCI.png" tvg-id="M+ Acción HD" group-title="MOVISTAR", MOVISTAR ACCION --> NEW ERA III
 acestream://f3a6d058791f0818a3301f9d5eeb60cfb54d905d
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M+%20Acci%C3%B3n%20HD.png?raw=true" tvg-id="M+ Acción HD" group-title="MOVISTAR", MOVISTAR ACCION HD --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPACCI.png" tvg-id="M+ Acción HD" group-title="MOVISTAR", MOVISTAR ACCION HD --> NEW LOOP
 acestream://cdaf3337bfa80a7d92d673c6ccfec23d3aa92b3c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/comedia-por-movistar-plus-es.png" tvg-id="M+ Comedia HD" group-title="MOVISTAR", MOVISTAR COMEDIA HD --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOME.png" tvg-id="M+ Comedia HD" group-title="MOVISTAR", MOVISTAR COMEDIA HD --> NEW LOOP
 acestream://28e3a4ee2f3d9876435c534a49e34e1a4ced0f12
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="MOVISTAR", M+ DRAMA HD Spain --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png" tvg-id="" group-title="MOVISTAR", M+ DRAMA HD Spain --> NEW LOOP
 acestream://acc20f3739d9eccd0539f0c62519f35b8750a245
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="MOVISTAR", M+ DRAMA HD
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png" tvg-id="" group-title="MOVISTAR", M+ DRAMA HD
 acestream://fc469b1e22f9a75bf7079995876955b9b293ef7e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" tvg-id="M+ Cine Español" group-title="MOVISTAR", MOVISTAR CINE ESPAÑOL FHD --> NEW ERA III
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCESP.png" tvg-id="M+ Cine Español" group-title="MOVISTAR", MOVISTAR CINE ESPAÑOL FHD --> NEW ERA III
 acestream://f4e37b63fb042d90528585741a39851af543deca
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="MOVISTAR", M+ CINE ESPAnOL HD Spain --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCESP.png" tvg-id="" group-title="MOVISTAR", M+ CINE ESPAnOL HD Spain --> NEW LOOP
 acestream://812151e00822387172fb695f526415c45ad8cd1b
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="MOVISTAR", M+ COMEDIA ESPAnOLA HD
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TOPCOM.png" tvg-id="" group-title="MOVISTAR", M+ COMEDIA ESPAnOLA HD
 acestream://c8a8710788e86761c4c702ee5cb7164e2a0e2d7a
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="MOVISTAR", M+ Indie HD Spain --> NEW LOOP
-acestream://060f90e77ec1f3478ef81b58569c0158b7851af5
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="MOVISTAR", M+ Indie HD
-acestream://205cf36437bf4e0643398f62f212832d4b8e271f
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="MOVISTAR", M+ Romance HD Spain --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TOPCOM.png" tvg-id="" group-title="MOVISTAR", M+ COMEDIA ESPAnOLA HD --> NEW LOOP
 acestream://3e38995391f980d060508c93ab1783cc4d7c42b6
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="MOVISTAR", M+ Terror HD Spain --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MINDI.png" tvg-id="" group-title="MOVISTAR", M+ Indie HD Spain --> NEW LOOP
+acestream://060f90e77ec1f3478ef81b58569c0158b7851af5
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MINDI.png" tvg-id="" group-title="MOVISTAR", M+ Indie HD
+acestream://205cf36437bf4e0643398f62f212832d4b8e271f
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/L2000.png" tvg-id="" group-title="MOVISTAR", M+ LOS2000
+acestream://b331dcd389eaf6d4af356245cc0a02a3c478d3ed
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/L2000.png" tvg-id="" group-title="MOVISTAR", M+ LOS2000 --> NEW LOOP
 acestream://17ad42b190bd0327984ea7efee661564a61bfc5b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="MOVISTAR", M+ Wéstern HD Spain --> NEW LOOP
 acestream://07473038aa16ed164f5989234fafd303eecf67dc
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="MOVISTAR", M+ LOS2000
-acestream://b331dcd389eaf6d4af356245cc0a02a3c478d3ed
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Calle%2013.png" tvg-id="Calle 13 HD" group-title="MOVISTAR", CALLE 13 HD --> NEW ERA III
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SCI-FI.png" tvg-id="" group-title="MOVISTAR", SYFY
+acestream://0abff11099cfe1bb45fac7fd29e996a68a9f1463
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CL13.png" tvg-id="Calle 13 HD" group-title="MOVISTAR", CALLE 13 HD --> NEW ERA III
 acestream://296007b6a8c2ea9ceb7d6528f5e5e109c3142fa0
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/DARK.png?raw=true" tvg-id="DARK" group-title="MOVISTAR", DARK HD --> NEW ERA III
 acestream://fd7e013b1827db32af3665d1ef5da7fc0cc6ae5d
-#EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0569/1562/3983/files/comedy-central-logo-die-cut-sticker-552629_640x640.png.webp" tvg-id="Comedy Central HD" group-title="MOVISTAR", Comedy Central HD --> NEW ERA III
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/PCM.png" tvg-id="Comedy Central HD" group-title="MOVISTAR", Comedy Central HD --> NEW ERA III
 acestream://e1c2c2a74a3688066526e5ff212e13d2101f44ad
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="MOVISTAR", SYFY
-acestream://0abff11099cfe1bb45fac7fd29e996a68a9f1463
