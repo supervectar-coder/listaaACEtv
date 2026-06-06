@@ -19,7 +19,7 @@ acestream://fcfe83e9b75169730fedf7375127c0190443972e
 acestream://0364449064d322a1bc0f97d568452053810ef8bc
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV1.png" tvg-id="M+ Estrenos HD" group-title="MOVISTAR", MOVISTAR ESTRENOS FHD --> NEW ERA III (NO)
 acestream://007a97a0aff68eb9a76f7fb9d9643b1532ab0803
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV1.png" tvg-id="M+ Estrenos HD" group-title="MOVISTAR", MOVISTAR ESTRENOS FHD --> NEW ERA III (NO)
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV1.png" tvg-id="M+ Estrenos HD" group-title="MOVISTAR", MOVISTAR ESTRENOS FHD --> NEW ERA III
 acestream://fe6dead974cebbb7626458a763ff0e2150dffbe0
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV1.png" tvg-id="M+ Estrenos HD" group-title="MOVISTAR", MOVISTAR ESTRENOS FHD --> NEW ERA III (NO)
 acestream://21a520deae139fb12548554c3b9b8fc1ba8993f1
@@ -33,6 +33,8 @@ acestream://f3a6d058791f0818a3301f9d5eeb60cfb54d905d
 acestream://cdaf3337bfa80a7d92d673c6ccfec23d3aa92b3c
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOME.png" tvg-id="M+ Comedia HD" group-title="MOVISTAR", MOVISTAR COMEDIA HD --> NEW LOOP (NO)
 acestream://28e3a4ee2f3d9876435c534a49e34e1a4ced0f12
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOME.png" tvg-id="M+ Comedia HD" group-title="MOVISTAR",MOVISTAR COMEDIA --> NEW ERA III
+acestream://e8cd9088fee41413df360e4539c9e7184a63ffcb
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png" tvg-id="M+ Drama HD" group-title="MOVISTAR", M+ DRAMA HD Spain --> NEW LOOP
 acestream://acc20f3739d9eccd0539f0c62519f35b8750a245
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png" tvg-id="M+ Drama HD" group-title="MOVISTAR", M+ DRAMA HD
