@@ -17,6 +17,8 @@ acestream://fe6dead974cebbb7626458a763ff0e2150dffbe0
 acestream://0bb012ac0e815b413831687a4a9b61777b3338f4
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MHITS.png" tvg-id="M+ Hits HD" group-title="MOVISTAR", M+ Hits HD Spain --> NEW LOOP
 acestream://e10ef7d45baba0ec10a1f237042dc633df947826
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MHITS.png" tvg-id="M+ Hits HD" group-title="MOVISTAR", M+ Hits HD
+acestream://0bb012ac0e815b413831687a4a9b61777b3338f4
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPACCI.png" tvg-id="M+ Acción HD" group-title="MOVISTAR", MOVISTAR ACCION --> NEW ERA III
 acestream://f3a6d058791f0818a3301f9d5eeb60cfb54d905d
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOME.png" tvg-id="M+ Comedia HD" group-title="MOVISTAR", MOVISTAR COMEDIA HD --> NEW LOOP no
@@ -39,6 +41,8 @@ acestream://3e38995391f980d060508c93ab1783cc4d7c42b6
 acestream://07473038aa16ed164f5989234fafd303eecf67dc
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MINDI.png" tvg-id="M+ Indie HD" group-title="MOVISTAR", M+ Indie HD Spain --> NEW LOOP
 acestream://060f90e77ec1f3478ef81b58569c0158b7851af5
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MINDI.png" tvg-id="M+ Indie HD" group-title="MOVISTAR", M+ Indie
+acestream://205cf36437bf4e0643398f62f212832d4b8e271f
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TERROR.png" tvg-id="M+ Terror" group-title="MOVISTAR", M+ TERROR
 acestream://b331dcd389eaf6d4af356245cc0a02a3c478d3ed
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TERROR.png" tvg-id="M+ Terror" group-title="MOVISTAR", M+ TERROR --> NEW LOOP
